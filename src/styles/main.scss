@@ -1,7 +1,0 @@
-@import "utils";
-@import "typography";
-@import "blocks";
-
-.container {
-  @include content-padding-inline;
-}
